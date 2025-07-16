@@ -1,5 +1,3 @@
----
-
 ## 🗓️ **Python Course Schedule (12 Weeks)**
 
 ### 🔰 **Week 1: Python Basics & I/O**
@@ -167,5 +165,3 @@
   * Create and raise a custom exception
   * Use context manager to manage a file
   * Review project: small CLI app (e.g. To-Do, Notes, etc.)
-
----
